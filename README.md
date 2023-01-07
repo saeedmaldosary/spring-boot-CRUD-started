@@ -6,12 +6,13 @@ This application is a simple CRUD (Create, Read, Update, Delete) application bui
 - Java 11 or higher
 - Maven 3.6.3 or higher
 - A database management system such as MySQL, PostgreSQL, or Oracle
+
 ## Getting Started
-- Clone the repository: git clone https://github.com/saeedmaldosary/springBoot-CRUD.git
-- Navigate to the project directory: cd springBoot-CRUD
-- Build the project: mvn clean install
-- Run the application: mvn spring-boot:run
-- Access the web interface at http://localhost:3000
+1. Clone the repository: git clone https://github.com/saeedmaldosary/springBoot-CRUD.git
+2. Navigate to the project directory: cd springBoot-CRUD
+3. Build the project: mvn clean install
+4. Run the application: mvn spring-boot:run
+5. Access the web interface at http://localhost:3000
 
 ## Configuration
 The application can be configured by modifying the application.properties file located in the src/main/resources directory. You can set the following properties:
