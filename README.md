@@ -1,4 +1,4 @@
-# springBoot-CRUD
+# springBoot-CRUD-Started
 
 This application is a simple CRUD (Create, Read, Update, Delete) application built using Spring Boot and JPA (Java Persistence API). It allows a user to perform CRUD operations on a database through a simple web interface.
 
